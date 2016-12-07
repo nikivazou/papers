@@ -1,1 +1,2 @@
 - [ ]  "Foundations of Constructive Mathematics" by Michael Beeson
+- [ ] "Self adjusting computation" http://dl.acm.org/citation.cfm?doid=1542476.1542480
